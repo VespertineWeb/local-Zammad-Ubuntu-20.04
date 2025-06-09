@@ -124,5 +124,3 @@ sudo systemctl restart docker
 # Verificar logs se não subir
 docker compose logs
 Execute os comandos na ordem e me avise se aparecer algum erro! O processo todo leva cerca de 5-10 minutos dependendo da sua conexão.
-
-Claude ;)
